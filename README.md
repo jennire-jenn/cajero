@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <img src="Diagrama.png" alt="wqe">
+    <img src="Diagrama.png" alt="">
 </body>
 </html>
